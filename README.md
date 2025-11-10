@@ -12,6 +12,5 @@ Aplikasi ini dibuat menggunakan flutter yang menggunakan Geolocator dan Geocodin
     5. Menampilkan alamat di UI
     6. Hasil Tampilan
   
-    
-    ![Gambar hasi;](https://github.com/user-attachments/assets/188a8f45-ac64-4c40-be5f-031d907cf183)
+  ![Gambar hasi;](https://github.com/user-attachments/assets/188a8f45-ac64-4c40-be5f-031d907cf183)
     
